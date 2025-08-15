@@ -1,4 +1,4 @@
-# Predicting Drought Tolerance from Genomic + Environmental Data (Demo)
+# Predicting Drought Tolerance from Genomic + Environmental Data
 
 This is a project that demonstrates an end-to-end workflow for genomic prediction
 in a crop context (here using synthetic data shaped like maize trials). It mirrors the kind of workflow
